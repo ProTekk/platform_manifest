@@ -377,6 +377,6 @@
 
   <project path="platform_manifest" name="AOKP/platform_manifest" remote="aokp" revision="jb-mr1" />
 
-  <project path="kernel/samsung/d2" name="kernel_samsung_d2" remote="gh" revision="jb-mr1" />
+  <project path="kernel/samsung/d2" name="kernel_samsung_d2" remote="bmc" revision="jb-mr1" />
 
 </manifest>
